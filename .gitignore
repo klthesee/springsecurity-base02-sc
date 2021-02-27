@@ -1,0 +1,7 @@
+/.idea
+/target
+springsecurity-base02-sc.iml
+/common/spring_security/target/
+/common/service_base/target/
+/infastructuce/api_gateway/target/
+/service/service_acl/target/
